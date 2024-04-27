@@ -9,13 +9,13 @@ Two homework assignments are organized as CodaLab competitions and involve long-
 
 We expect that after completing the course students:
 
-1) Will understand the essence of the main part of Transformers - the attention mechanism, as well as the basic principles of working with texts.
+* Will understand the essence of the main part of Transformers - the attention mechanism, as well as the basic principles of working with texts.
 
-2)  Familiarize themselves with a diverse range of Natural Language Processing and Machine Learning challenges, equipped with the tools and methodologies necessary to tailor Transformers to address specific problems.
+* Familiarize themselves with a diverse range of Natural Language Processing and Machine Learning challenges, equipped with the tools and methodologies necessary to tailor Transformers to address specific problems.
 
-3) Develop the ability to correlate a given task encountered during work or study with one of the generalized problems discussed in the course. For instance, mapping the identifying specific words within a document to sequence labeling, and subsequently to multilabel classification or representing word games with chat-bot as a text continuation problem.
+* Develop the ability to correlate a given task encountered during work or study with one of the generalized problems discussed in the course. For instance, mapping the identifying specific words within a document to sequence labeling, and subsequently to multilabel classification or representing word games with chat-bot as a text continuation problem.
 
-4) Engage in homework assignments extended beyond the duration typically allotted in similar courses, enabling students to delve deeper into problem-solving, experiment gradually, and compare various approaches to data preprocessing and learning.
+* Engage in homework assignments extended beyond the duration typically allotted in similar courses, enabling students to delve deeper into problem-solving, experiment gradually, and compare various approaches to data preprocessing and learning.
 
 The course Syllabus is the Following:
 
