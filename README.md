@@ -17,7 +17,7 @@ We expect that after completing the course students:
 
 * Engage in homework assignments extended beyond the duration typically allotted in similar courses, enabling students to delve deeper into problem-solving, experiment gradually, and compare various approaches to data preprocessing and learning.
 
-##The course Syllabus
+## The course Syllabus
 
 
 ![](https://github.com/s-nlp/transformers-course/blob/main/Course%20structure.png)
