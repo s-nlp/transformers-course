@@ -39,5 +39,5 @@ We expect that after completing the course students:
 
 ## Editable materials
 
-Raw versions of the editable course materials (e.g., pptx presentations) can be found via [here](clck.ru/3FC5CZ).
+Raw versions of the editable course materials (e.g., pptx presentations) can be found via [here](https://drive.google.com/drive/folders/15gRVv0YhnLR9LYcPub7jO1jJbUHH3dfF?usp=sharing).
 
