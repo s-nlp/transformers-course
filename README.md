@@ -20,5 +20,20 @@ We expect that after completing the course students:
 ## The course Syllabus
 
 
-![](https://github.com/s-nlp/transformers-course/blob/main/Course%20structure.png)
+* 1.  The Transformer.
+* 2.  Transformer-based encoders.
+* 3.  Classification and sequence tagging with Transformers.
+* 4.  Transformer-based decoders. 
+* 5.  Towards ChatGPT and main modern LLMs.
+* 6.  Sequence to sequence tasks. 
+* 7.  Multilingual language models based on the Transformer architecture. 
+* 8.  Uncertainty estimation for Transformers and NLP tasks.
+* 9.  Efficient Transformers. 
+* 10.  Compression of Transformer Models and Low-Rank Approaches.
+* 11.  Network Encoders with Transformers.
+* 12.  Multimodal and vision Transformers. 
+* 13.  RAG with Transformers and introduction to AI Agents.
+* 14.  Transformers for event sequences.
+* 15.  Transformers for tabular data.
+* 16.  Deadline for all homework assignments. Final quiz.
 
