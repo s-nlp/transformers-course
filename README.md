@@ -37,3 +37,7 @@ We expect that after completing the course students:
 * 15.  Transformers for tabular data.
 * 16.  Deadline for all homework assignments. Final quiz.
 
+## Editable materials
+
+Raw versions of the editable course materials (e.g., pptx presentations) can be found via [here](clck.ru/3FC5CZ).
+
