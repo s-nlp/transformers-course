@@ -26,18 +26,16 @@ We expect that after completing the course students:
 * 4.  Transformer-based decoders. 
 * 5.  Towards ChatGPT and main modern LLMs.
 * 6.  Sequence to sequence tasks. 
-* 7.  Multilingual language models based on the Transformer architecture. 
+* 7.  Efficient Transformers.
 * 8.  Uncertainty estimation for Transformers and NLP tasks.
-* 9.  Efficient Transformers. 
-* 10.  Compression of Transformer Models and Low-Rank Approaches.
-* 11.  Network Encoders with Transformers.
-* 12.  Multimodal and vision Transformers. 
-* 13.  RAG with Transformers and introduction to AI Agents.
+* 9.  Uncertainty quantification for text generation tasks
+* 10.  Multilingual language models.
+* 11.  Multimodal dialogue models.
+* 12.  RAG with Transformers and introduction to AI Agents. 
+* 13.  Transformers for tabular data.
 * 14.  Transformers for event sequences.
-* 15.  Transformers for tabular data.
-* 16.  Deadline for all homework assignments. Final quiz.
 
 ## Editable materials
 
-Raw versions of the editable course materials (e.g., pptx presentations) can be found via [here](https://drive.google.com/drive/folders/15gRVv0YhnLR9LYcPub7jO1jJbUHH3dfF?usp=sharing).
+Raw versions of the editable course materials (e.g., pptx presentations) can be found [here](https://drive.google.com/drive/folders/1rJU9uAyoEcXhutNGeHc8pUIw9gyPzzn7?usp=sharing).
 
