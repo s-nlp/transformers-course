@@ -1,11 +1,9 @@
 # Transformer course
-This is the repository of the course on neural networks based on the Transformer architecture targeted at people with experience in Python, Machine Learning, and Deep Learning but little or no experience with Transformers. 
+This is the repository of the course on LLMs based on the Transformer architecture targeted at people with experience in Python, Machine Learning, and Deep Learning but little or no experience with Transformers and LLMS. 
 
-The course features a comprehensive overview of NLP applications but also covers the use of Transformers for other types of data, such as images, networks, or event sequences. The course features $13$ sessions: one lecture per session, one practical session per session, and two homework assignments organized as CodaLab competitions. The first six sessions of the course are devoted to the Transformer and the variations of this architecture (e.g., encoders, decoders, encoder-decoders) as well as different techniques of model tuning. Subsequent sessions are devoted to multilingualism, multimodality, efficiency, tabular data, graphs, and event sequences.
+The course features a comprehensive overview of NLP applications but also covers the use of Transformers and LLMs for other types of data, such as images, networks, or event sequences. The course features $14$ sessions: one lecture per session, one practical session per session. 
 
-The course covers the concept of attention mechanism, encoder/decoder models, text tokenization and generation, Reinforcement Learning from Human Feedback. The course is based on the analysis of different Transformer architectures and comprehensive overview of its applications, including not only Natural Language, but also images, networks, or event sequences applications.
-The course touches on the latest exciting topics from the AI community. In the lectures, we discuss the problems of resource consumption when training large Transformers and the opportunity to make such models more efficient. We are also talking about the problem of creating “good” training datasets, about ChatGPT and its issues, about approaches to Prompt Tuning, which is gaining popularity recently.
-Two homework assignments are organized as CodaLab competitions and involve long-term work with a problem and the selection of several approaches to solving with the following result discussion.
+The course covers the concept of attention mechanism, encoder/decoder models, text tokenization and generation, Reinforcement Learning from Human Feedback, Reasoning in LLMs, RAG, LoRA and introduction to AI-agents. 
 
 We expect that after completing the course students:
 
@@ -20,20 +18,20 @@ We expect that after completing the course students:
 ## The course Syllabus
 
 
-* 1.  The Transformer.
-* 2.  Transformer-based encoders.
-* 3.  Classification and sequence tagging with Transformers.
-* 4.  Transformer-based decoders. 
-* 5.  Towards ChatGPT and main modern LLMs.
-* 6.  Sequence to sequence tasks. 
-* 7.  Efficient Transformers.
-* 8.  Uncertainty estimation for Transformers and NLP tasks.
-* 9.  Uncertainty quantification for text generation tasks
-* 10.  Multilingual language models.
-* 11.  Multimodal dialogue models.
-* 12.  RAG with Transformers and introduction to AI Agents. 
-* 13.  Transformers for tabular data.
-* 14.  Transformers for event sequences.
+* 1. Transformer model
+* 2. Transformer-based Encoders
+* 3. Classification…with Transformers
+* 4. Transformer-based decoders
+* 5. Towards ChatGPT
+* 6. Efficient Transformers
+* 7. RAG with Transformers
+* 8. Introduction to AI Agents
+* 9. Uncertainty e…n for Transformers
+* 10. Uncertainty qu…t generation tasks
+* 11. Multilingual language models
+* 12. Multimodal dialogue models
+* 13. Transformers for tabular data
+* 14. Transformers for event sequences
 
 ## Editable materials
 
