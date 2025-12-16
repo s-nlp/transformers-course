@@ -20,8 +20,8 @@ The course features $14$ sessions: one lecture per session, one practical sessio
 * 6. Efficient Transformers
 * 7. RAG with Transformers
 * 8. Introduction to AI Agents
-* 9. Uncertainty e…n for Transformers
-* 10. Uncertainty qu…t generation tasks
+* 9. Uncertainty estimation for Transformers
+* 10. Uncertainty quantification generation tasks
 * 11. Multilingual language models
 * 12. Multimodal dialogue models
 * 13. Transformers for tabular data
