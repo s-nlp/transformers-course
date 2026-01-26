@@ -11,21 +11,20 @@ The course features $14$ sessions: one lecture per session, one practical sessio
 
 ## The course Syllabus
 
-
-* 1. Transformer model
-* 2. Transformer-based Encoders
-* 3. Classification with Transformers
-* 4. Transformer-based decoders
-* 5. Towards ChatGPT
-* 6. Efficient Transformers
-* 7. RAG with Transformers
-* 8. Introduction to AI Agents
-* 9. Uncertainty estimation for Transformers
-* 10. Uncertainty quantification generation tasks
-* 11. Multilingual language models
-* 12. Multimodal dialogue models
-* 13. Transformers for tabular data
-* 14. Transformers for event sequences
+1. [Transformer model](https://github.com/s-nlp/transformers-course/tree/main/course_materials/01.%20Transformer%20model)
+2. [Transformer-based Encoders](https://github.com/s-nlp/transformers-course/tree/main/course_materials/02.%20Transformer-based%20Encoders)
+3. [Classification with Transformers](https://github.com/s-nlp/transformers-course/tree/main/course_materials/03.%20Classification%20and%20sequence%20tagging%20with%20Transformers)
+4. [Transformer-based decoders](https://github.com/s-nlp/transformers-course/tree/main/course_materials/04.%20Transformer-based%20decoders)
+5. [Towards ChatGPT](https://github.com/s-nlp/transformers-course/tree/main/course_materials/05.%20Towards%20ChatGPT)
+6. [Efficient Transformers](https://github.com/s-nlp/transformers-course/tree/main/course_materials/06.%20Efficient%20Transformers)
+7. [RAG with Transformers](https://github.com/s-nlp/transformers-course/tree/main/course_materials/07.%20RAG%20with%20Transformers)
+8. [Introduction to AI Agents](https://github.com/s-nlp/transformers-course/tree/main/course_materials/08.%20Introduction%20to%20AI%20Agents)
+9. [Uncertainty estimation for Transformers](https://github.com/s-nlp/transformers-course/tree/main/course_materials/09.%20Uncertainty%20estimation%20for%20Transformers)
+10. [Uncertainty quantification generation tasks](https://github.com/s-nlp/transformers-course/tree/main/course_materials/10.%20Uncertainty%20quantification%20for%20text%20generation%20tasks)
+11. [Multilingual language models](https://github.com/s-nlp/transformers-course/tree/main/course_materials/11.%20Multilingual%20language%20models)
+12. [Multimodal dialogue models](https://github.com/s-nlp/transformers-course/tree/main/course_materials/12.%20Multimodal%20dialogue%20models)
+13. [Transformers for tabular data](https://github.com/s-nlp/transformers-course/tree/main/course_materials/13.%20Transformers%20for%20tabular%20data)
+14. [Transformers for event sequences](https://github.com/s-nlp/transformers-course/tree/main/course_materials/14.%20Transformers%20for%20event%20sequences)
 
 ## Editable materials
 
