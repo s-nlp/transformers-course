@@ -14,7 +14,7 @@ The course features $14$ sessions: one lecture per session, one practical sessio
 
 * 1. Transformer model
 * 2. Transformer-based Encoders
-* 3. Classification…with Transformers
+* 3. Classification with Transformers
 * 4. Transformer-based decoders
 * 5. Towards ChatGPT
 * 6. Efficient Transformers
