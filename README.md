@@ -1,4 +1,5 @@
-# Transformer course on LLMs and multimodal models
+# Transformer Course on LLMs and Multimodal Models
+
 This is the repository of the course on LLMs based on the Transformer architecture targeted at people with experience in Python, Machine Learning, and Deep Learning but little or no experience with Transformers and LLMS. 
 
 The course focuses on modern LLMs and multimodal models built on the Transformer architecture.  A separate module covers the use of Transformers for non-text modalities (time series, tabular data, and others) and modern multimodal architectures. The course also introduces the fundamentals of building AI agents based on LLMs. As a result, you will gain comprehensive knowledge of how modern LLMs, multimodal models, RAG systems, and basic LLM agents operate both in theory and in practice.
@@ -7,7 +8,7 @@ The course emphasizes not only theoretical understanding but also practical skil
 
 By the end of the course, you will have a coherent understanding of the principles and practical use of LLMs, multimodal models, RAG systems, and basic LLM agents — with a strong emphasis on practical application, proper evaluation, and computational efficiency.
 
-The course features $14$ sessions: one lecture per session, one practical session per session.
+The course features 14 sessions: one lecture per session, one practical session per session.
 
 ## The course Syllabus
 
@@ -49,3 +50,7 @@ If you use materials of this course please refer to the following paper [Industr
     abstract = "This paper presents a course on neural networks based on the Transformer architecture targeted at diverse groups of people from academia and industry with experience in Python, Machine Learning, and Deep Learning but little or no experience with Transformers. The course covers a comprehensive overview of the Transformers NLP applications and their use for other data types. The course features 15 sessions, each consisting of a lecture and a practical part, and two homework assignments organized as CodaLab competitions. The first six sessions of the course are devoted to the Transformer and the variations of this architecture (e.g., encoders, decoders, encoder-decoders) as well as different techniques of model tuning. Subsequent sessions are devoted to multilingualism, multimodality (e.g., texts and images), efficiency, event sequences, and tabular data.We ran the course for different audiences: academic students and people from industry. The first run was held in 2022. During the subsequent iterations until 2024, it was constantly updated and extended with recently emerged findings on GPT-4, LLMs, RLHF, etc. Overall, it has been ran six times (four times in industry and twice in academia) and received positive feedback from academic and industry students."
 }
 ```
+
+
+## Contact 
+For any request regarding the course please contact [Maria](mailto:m_tikhonova94@mail.ru) and/or [Alexander](mailto:panc@duck.com) or simply open an issue here.
