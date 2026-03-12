@@ -30,3 +30,22 @@ The course features $14$ sessions: one lecture per session, one practical sessio
 
 Raw versions of the editable course materials (e.g., pptx presentations) can be found [here](https://drive.google.com/drive/folders/1rJU9uAyoEcXhutNGeHc8pUIw9gyPzzn7?usp=sharing).
 
+## Citation
+
+If you use materials of this course please refer to the following paper [Industry vs Academia: Running a Course on Transformers in Two Setups](https://aclanthology.org/2024.teachingnlp-1.3/) published at the the 6th Workshop on Teaching NLP co-located with ACL-2024 in Bangkok (materials of this repository are being gradually updated since the initial release):
+
+```
+@inproceedings{nikishina-etal-2024-industry-vs,
+    title = "Industry vs Academia: Running a Course on Transformers in Two Setups",
+    author = "Nikishina, Irina  and Tikhonova, Maria  and Chekalina, Viktoriia  and Zaytsev, Alexey  and Vazhentsev, Artem  and Panchenko, Alexander",
+    editor = {Al-azzawi, Sana  and Biester, Laura  and Kov{\'a}cs, Gy{\"o}rgy  and Marasovi{\'c}, Ana  and Mathur, Leena  and Mieskes, Margot  and Weissweiler, Leonie},
+    booktitle = "Proceedings of the Sixth Workshop on Teaching NLP",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.teachingnlp-1.3/",
+    pages = "7--22",
+    abstract = "This paper presents a course on neural networks based on the Transformer architecture targeted at diverse groups of people from academia and industry with experience in Python, Machine Learning, and Deep Learning but little or no experience with Transformers. The course covers a comprehensive overview of the Transformers NLP applications and their use for other data types. The course features 15 sessions, each consisting of a lecture and a practical part, and two homework assignments organized as CodaLab competitions. The first six sessions of the course are devoted to the Transformer and the variations of this architecture (e.g., encoders, decoders, encoder-decoders) as well as different techniques of model tuning. Subsequent sessions are devoted to multilingualism, multimodality (e.g., texts and images), efficiency, event sequences, and tabular data.We ran the course for different audiences: academic students and people from industry. The first run was held in 2022. During the subsequent iterations until 2024, it was constantly updated and extended with recently emerged findings on GPT-4, LLMs, RLHF, etc. Overall, it has been ran six times (four times in industry and twice in academia) and received positive feedback from academic and industry students."
+}
+```
