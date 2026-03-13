@@ -2,6 +2,8 @@
 
 This is the repository of the course on LLMs based on the Transformer architecture targeted at people with experience in Python, Machine Learning, and Deep Learning but little or no experience with Transformers and LLMS. 
 
+![Transformers Course](transformers-hero.svg)
+
 The course focuses on modern LLMs and multimodal models built on the Transformer architecture.  A separate module covers the use of Transformers for non-text modalities (time series, tabular data, and others) and modern multimodal architectures. The course also introduces the fundamentals of building AI agents based on LLMs. As a result, you will gain comprehensive knowledge of how modern LLMs, multimodal models, RAG systems, and basic LLM agents operate both in theory and in practice.
 
 The course emphasizes not only theoretical understanding but also practical skills for applying these models and building systems around them. Special attention is given to modern LLM architectures, relevant frameworks such as Transformers, LLM, Ollama, LangChain, and others, as well as to the efficiency of LLM-based system design.
