@@ -1,0 +1,131 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bggrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1026"/>
+      <stop offset="100%" stop-color="#141b3a"/>
+    </linearGradient>
+
+    <linearGradient id="nodegrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4fd1ff"/>
+      <stop offset="100%" stop-color="#9f7aea"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="420" fill="url(#bggrad)"/>
+
+  <!-- title -->
+  <text x="600" y="70"
+        text-anchor="middle"
+        font-family="Inter, Helvetica, Arial, sans-serif"
+        font-size="42"
+        fill="#e6ecff"
+        font-weight="600">
+        Transformers Course
+  </text>
+
+  <text x="600" y="105"
+        text-anchor="middle"
+        font-family="Inter, Helvetica, Arial, sans-serif"
+        font-size="18"
+        fill="#9fb0ff">
+        Attention • Large Language Models • Modern NLP
+  </text>
+
+
+  <!-- token nodes (left) -->
+  <g font-family="monospace" font-size="16" fill="#d6dcff">
+    <text x="120" y="170">The</text>
+    <text x="120" y="200">cat</text>
+    <text x="120" y="230">sat</text>
+    <text x="120" y="260">on</text>
+    <text x="120" y="290">the</text>
+    <text x="120" y="320">mat</text>
+  </g>
+
+
+  <!-- token circles -->
+  <g fill="url(#nodegrad)" filter="url(#glow)">
+    <circle cx="220" cy="165" r="7"/>
+    <circle cx="220" cy="195" r="7"/>
+    <circle cx="220" cy="225" r="7"/>
+    <circle cx="220" cy="255" r="7"/>
+    <circle cx="220" cy="285" r="7"/>
+    <circle cx="220" cy="315" r="7"/>
+  </g>
+
+
+  <!-- transformer core -->
+  <circle cx="600" cy="240" r="60"
+          stroke="#7aa2ff"
+          stroke-width="2"
+          fill="none"
+          opacity="0.7"/>
+
+  <circle cx="600" cy="240" r="12"
+          fill="#7aa2ff"
+          filter="url(#glow)"/>
+
+  <!-- attention connections -->
+  <g stroke="#6ea8ff" stroke-opacity="0.5">
+
+    <line x1="220" y1="165" x2="600" y2="240"/>
+    <line x1="220" y1="195" x2="600" y2="240"/>
+    <line x1="220" y1="225" x2="600" y2="240"/>
+    <line x1="220" y1="255" x2="600" y2="240"/>
+    <line x1="220" y1="285" x2="600" y2="240"/>
+    <line x1="220" y1="315" x2="600" y2="240"/>
+
+  </g>
+
+
+  <!-- attention head nodes -->
+  <g fill="url(#nodegrad)" filter="url(#glow)">
+    <circle cx="760" cy="150" r="8"/>
+    <circle cx="830" cy="200" r="8"/>
+    <circle cx="830" cy="280" r="8"/>
+    <circle cx="760" cy="330" r="8"/>
+  </g>
+
+  <!-- connections from transformer -->
+  <g stroke="#8ab4ff" stroke-opacity="0.6">
+
+    <line x1="600" y1="240" x2="760" y2="150"/>
+    <line x1="600" y1="240" x2="830" y2="200"/>
+    <line x1="600" y1="240" x2="830" y2="280"/>
+    <line x1="600" y1="240" x2="760" y2="330"/>
+
+  </g>
+
+
+  <!-- applications -->
+  <g font-family="Inter, Helvetica, Arial" font-size="16" fill="#cfd6ff">
+
+    <text x="900" y="150">Text Tasks</text>
+    <text x="900" y="200">Chat / LLMs</text>
+    <text x="900" y="280">Multimodal AI</text>
+    <text x="900" y="330">Knowledge Models</text>
+
+  </g>
+
+
+  <!-- footer -->
+  <text x="600" y="390"
+        text-anchor="middle"
+        font-family="Inter, Helvetica, Arial"
+        font-size="14"
+        fill="#6f7bd6">
+        S-NLP • Transformer Architectures • Attention Mechanisms
+  </text>
+
+</svg>
